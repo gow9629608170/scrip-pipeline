@@ -1,0 +1,6 @@
+node {
+ 
+    stage('git scm') {
+         echo "this is scripted pipeline"
+    }
+}
